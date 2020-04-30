@@ -13,7 +13,12 @@
 # limitations under the License.
 
 homepage: "https://promotionalads.yahoo.co.jp/"
-documentation: "https://ads-help.yahoo.co.jp/yahooads/top?lan=ja"
+documentation: "https://ads-help.yahoo.co.jp/yahooads/ss/articledetail?lan=ja&aid=1159"
 versions:
+  # Latest version
+  - sha: e48eb571ee3b1442de4699d147e6332e57628cb2
+    changeNotes: ‚²—˜—p‚Ì’ˆÓ“_‚ğ‹LÚ‚µ‚Ü‚µ‚½
+
+  # Older versions
   - sha: 88006e5ec8558521ef2c3c42df085985b5282684
     changeNotes: Initial Version
