@@ -1,9 +1,9 @@
-# Yahoo!広告（検索広告） コンバージョン測定タグ
+# LINEヤフー広告（検索広告） コンバージョン測定タグ
 
 
-Yahoo!広告（検索広告）のコンバージョン測定タグのテンプレートです。<br>
+LINEヤフー広告（検索広告）のコンバージョン測定タグのテンプレートです。<br>
 タグの詳細については、以下を参照してください。<br>
 ※タグの実行順序について注意点があります。以下のリンクをクリックしてドキュメントをご確認ください。<br>
-https://ads-help.yahoo.co.jp/yahooads/ss/articledetail?lan=ja&aid=1159
+https://ads-help.yahoo-net.jp/s/article/H000044505?language=ja
 
 
